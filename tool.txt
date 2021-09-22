@@ -1,0 +1,8 @@
+
+
+git is a local repositor
+y  
+
+git hub is a central repositery
+there are three types of editores are generally used in the  build and release 
+
